@@ -24,8 +24,8 @@
 - 
 **Результат**: Разработаны стратегические рекомендации для игроков на основе данных.
 
-**Технологии**: Python, Pandas, PostgreSQL, Supabase, Matplotlib, SciPy, Yandex Datalens.
-
+**Технологии**: Python, Pandas, PostgreSQL, Supabase, Requests, JSON, Zipfile, Matplotlib, SciPy, Yandex Datalens, Jupyter Notebook.
+  
 ### A/B-тестирование платежной воронки.
 
 **Анализ влияния новой платежной воронки на конверсию в покупку.**
